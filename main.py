@@ -1,2 +1,7 @@
 #python-test-example
-#This is a test file
+
+
+def main(msg):
+    print(msg)
+
+main ("Hello People")
