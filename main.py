@@ -2,6 +2,10 @@
 
 
 def main(msg):
+    #no longer need comments
     print(msg)
 
-main ("Hello People")
+def secondary():
+    print("new function")
+
+main ("Hello People on MArs")
